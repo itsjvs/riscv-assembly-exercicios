@@ -1,6 +1,10 @@
 ## Exercício 2 – Operações Básicas
 Dado dois números:
-    • Calcule a soma \n
-    • Calcule a subtração \n
-    • Calcule a multiplicação (mul) \n
+
+    • Calcule a soma 
+    
+    • Calcule a subtração 
+    
+    • Calcule a multiplicação (mul) 
+    
 Armazene cada resultado em registradores diferentes.
