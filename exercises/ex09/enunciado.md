@@ -1,4 +1,4 @@
-##Exercício 09 – Leitura de Vetor
+## Exercício 09 – Leitura de Vetor
 Dado um vetor de 8 posições:
 
     • Percorra todos os elementos 
